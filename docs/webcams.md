@@ -17,7 +17,7 @@ Table of Content:
   - [62° Hankasalmi](#hankasalmi-finland)
   - [61° Tampere](#tampere-finland)
   - [61° Pori](#pori-finland)
-  - [60° Metsähovi](#metäshovi-finland)
+  - [60° Metsähovi](#metsähovi-finland)
 - [🇸🇪 Sweden](#sweden)
   - [68° Abisko](#abisko-sweden)
   - [67° Kiruna](#kiruna-sweden)
