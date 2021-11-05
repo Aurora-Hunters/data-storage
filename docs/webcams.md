@@ -255,8 +255,9 @@ Image: http://auroramax.phys.ucalgary.ca/recent/recent_1080p.jpg
 
 ### Calgary, Canada
 
-> i dont know where this cam
-> need to check this https://data.phys.ucalgary.ca
+> i dont know where this cam is places.
+>
+> need to check this site https://data.phys.ucalgary.ca
 
 Location: ???
 
