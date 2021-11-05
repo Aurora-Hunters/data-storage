@@ -46,10 +46,6 @@ Stream: http://158.39.49.147/axis-cgi/mjpg/video.cgi
 
 ![](http://158.39.49.147/axis-cgi/mjpg/video.cgi)
 
-### ???? University College London All Sky Colour Imager
-
-> is it Breinosa, Svalbard?
-
 Page: [University College London All Sky Colour Imager](http://kho.unis.no/ucl_allsky.htm)
 
 Image: http://kho.unis.no/Quicklooks/UCL_AllSky_latest.jpg
