@@ -30,6 +30,16 @@ Table of Content:
 
 ## Norway
 
+### Longyearbyen, Norway
+
+Location: 78°8′52″N 16°2′23″E
+
+Page: [BACC #1 - Color All Sky Camera in Longyearbyen (UNIS)](http://kho.unis.no/zwo_allsky.htm)
+
+Image: http://kho.unis.no/Quicklooks/ZWO/Allsky.jpg
+
+![](http://kho.unis.no/Quicklooks/ZWO/Allsky.jpg)
+
 ### Svalbard, Norway
 
 Location: 78.148, 16.043
@@ -51,16 +61,6 @@ Page: [University College London All Sky Colour Imager](http://kho.unis.no/ucl_a
 Image: http://kho.unis.no/Quicklooks/UCL_AllSky_latest.jpg
 
 ![](http://kho.unis.no/Quicklooks/UCL_AllSky_latest.jpg)
-
-### Longyearbyen, Norway
-
-Location: 78°8′52″N 16°2′23″E
-
-Page: [BACC #1 - Color All Sky Camera in Longyearbyen (UNIS)](http://kho.unis.no/zwo_allsky.htm)
-
-Image: http://kho.unis.no/Quicklooks/ZWO/Allsky.jpg
-
-![](http://kho.unis.no/Quicklooks/ZWO/Allsky.jpg)
 
 ### Ny-Ålesund, Norway
 
