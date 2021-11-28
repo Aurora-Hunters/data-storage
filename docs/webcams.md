@@ -36,7 +36,7 @@ Location: 78°8′52″N 16°2′23″E
 
 Page: [BACC #1 - Color All Sky Camera in Longyearbyen (UNIS)](http://kho.unis.no/zwo_allsky.htm)
 
-Image: http://kho.unis.no/Quicklooks/ZWO/Allsky.jpg
+Image: `http://kho.unis.no/Quicklooks/ZWO/Allsky.jpg`
 
 ![](http://kho.unis.no/Quicklooks/ZWO/Allsky.jpg)
 
@@ -46,7 +46,7 @@ Location: 78.148, 16.043
 
 Page: [Latest Sony a7s Image](http://kho.unis.no/kho_sony.htm)
 
-Image: http://kho.unis.no/Quicklooks/kho_sony.png
+Image: `http://kho.unis.no/Quicklooks/kho_sony.png`
 
 ![](http://kho.unis.no/Quicklooks/kho_sony.png)
 
@@ -58,7 +58,7 @@ Stream: http://158.39.49.147/axis-cgi/mjpg/video.cgi
 
 Page: [University College London All Sky Colour Imager](http://kho.unis.no/ucl_allsky.htm)
 
-Image: http://kho.unis.no/Quicklooks/UCL_AllSky_latest.jpg
+Image: `http://kho.unis.no/Quicklooks/UCL_AllSky_latest.jpg`
 
 ![](http://kho.unis.no/Quicklooks/UCL_AllSky_latest.jpg)
 
@@ -68,7 +68,7 @@ Location: 78°55′25″N 11°55′49″E
 
 Page: [BACC #2 -Color All Sky Camera in Ny-Ålesund (UIO)](http://193.156.10.139)
 
-Image: http://193.156.10.139/Allsky.jpg
+Image: `http://193.156.10.139/Allsky.jpg`
 
 ![](http://193.156.10.139/Allsky.jpg)
 
@@ -78,13 +78,13 @@ Location: 69°20′53″N 20°21′47″E
 
 Page: [BACC #5 - Color All Sky Camera in Skibotn (UiT)](http://kho.unis.no/zwo_Skibotn.htm)
 
-Image: https://fox.phys.uit.no/ASC/BACC5.jpg
+Image: `https://fox.phys.uit.no/ASC/BACC5.jpg`
 
 ![](https://fox.phys.uit.no/ASC/BACC5.jpg)
 
 Page: [TGO All-Sky Camera @ Skibotn Observatory](https://fox.phys.uit.no/ASC/ASC01.html)
 
-Image: https://fox.phys.uit.no/ASC/Latest_ASC01.png
+Image: `https://fox.phys.uit.no/ASC/Latest_ASC01.png`
 
 ![](https://fox.phys.uit.no/ASC/Latest_ASC01.png)
 
@@ -96,7 +96,7 @@ Location: ???
 
 Page: [Real Time Sky Image at Ramjordmoen Tromsoe](https://www.isee.nagoya-u.ac.jp/~eiscat/obs/d5000/html/sky_image.html)
 
-Image: https://tromsoe-ai.cei.uec.ac.jp/~nanjo/public/aurora_alert/latest.jpg
+Image: `https://tromsoe-ai.cei.uec.ac.jp/~nanjo/public/aurora_alert/latest.jpg`
 
 ![](https://tromsoe-ai.cei.uec.ac.jp/~nanjo/public/aurora_alert/latest.jpg)
 
@@ -110,7 +110,7 @@ Location: 69°45′36″N 27°0′36″E
 
 Page: [BACC - Color All Sky Camera in KEVO (FMI)](https://space.fmi.fi/MIRACLE/ASC/ASC_keograms/test_KEVO.html)
 
-Image: https://space.fmi.fi/MIRACLE/ASC/ASC_keograms/tmp_KEV_keo/Allsky_KEVO.jpg
+Image: `https://space.fmi.fi/MIRACLE/ASC/ASC_keograms/tmp_KEV_keo/Allsky_KEVO.jpg`
 
 ![](https://space.fmi.fi/MIRACLE/ASC/ASC_keograms/tmp_KEV_keo/Allsky_KEVO.jpg)
 
@@ -120,7 +120,7 @@ Location: 69°1,8′N 20°28,2′E
 
 Page: ???
 
-Image: https://www.kilpissafarit.fi/kuvat/latest.jpg
+Image: `https://www.kilpissafarit.fi/kuvat/latest.jpg`
 
 ![](https://www.kilpissafarit.fi/kuvat/latest.jpg)
 
@@ -130,7 +130,7 @@ Location:  68°1′44″N 23°33′47″E
 
 Page: [BACC #4 - Color All Sky Camera in Muonio (FMI)](http://kho.unis.no/Muonio_allsky.htm)
 
-Image: https://aurorasnow.fmi.fi/public_service/images/latest_MUO.jpg
+Image: `https://aurorasnow.fmi.fi/public_service/images/latest_MUO.jpg`
 
 ![](https://aurorasnow.fmi.fi/public_service/images/latest_MUO.jpg)
 
@@ -140,7 +140,7 @@ Location: 67.42, 26.39
 
 Page: [Sodankylä Geophysical Observatory](https://www.sgo.fi/Data/RealTime/allsky.php)
 
-Image: https://www.sgo.fi/Data/RealTime/Kuvat/UCL.jpg
+Image: `https://www.sgo.fi/Data/RealTime/Kuvat/UCL.jpg`
 
 ![](https://www.sgo.fi/Data/RealTime/Kuvat/UCL.jpg)
 
@@ -150,7 +150,7 @@ Location: 62°20′33,2”N 25°30′35,6″E
 
 Page: [Nyrölän Observatorio](http://nyrola.jklsirius.fi)
 
-Image: http://nyrola.jklsirius.fi/allsky/image-resize.jpg
+Image: `http://nyrola.jklsirius.fi/allsky/image-resize.jpg`
 
 ![](http://nyrola.jklsirius.fi/allsky/image-resize.jpg)
 
@@ -160,7 +160,7 @@ Location: 62°20′33.2″N 25°30′35.6″E
 
 Page: [Hankasalmi Observatory](http://murtoinen.jklsirius.fi)
 
-Image: https://www.ursa.fi/yhd/sirius/sivut/kuvat/ImageLastFTP_AllSKY.jpg
+Image: `https://www.ursa.fi/yhd/sirius/sivut/kuvat/ImageLastFTP_AllSKY.jpg`
 
 ![](https://www.ursa.fi/yhd/sirius/sivut/kuvat/ImageLastFTP_AllSKY.jpg)
 
@@ -170,7 +170,7 @@ Location: 61°30′44”N 23°47′38”E
 
 Page: [](https://www.ursa.fi/yhd/tampereenursa/)
 
-Image: https://www.ursa.fi/yhd/tampereenursa/Pics/latest_CAM-20.jpg
+Image: `https://www.ursa.fi/yhd/tampereenursa/Pics/latest_CAM-20.jpg`
 
 ![](https://www.ursa.fi/yhd/tampereenursa/Pics/latest_CAM-20.jpg)
 
@@ -180,7 +180,7 @@ Location: 61.43N, 21.93E
 
 Page: [Porin Karhunvartijat ry](https://karhunvartijat.fi/karhukamera/)
 
-Image: https://karhunvartijat.fi/allsky/images/image-resize.jpg
+Image: `https://karhunvartijat.fi/allsky/images/image-resize.jpg`
 
 ![](https://karhunvartijat.fi/allsky/images/image-resize.jpg)
 
@@ -190,7 +190,7 @@ Location:  60°13′2,85”N 24°23′34,9″E
 
 Page: [Metsähovi Radio Observatory](https://www.aalto.fi/en/metsahovi-radio-observatory)
 
-Image: https://space.fmi.fi/MIRACLE/RWC/latest_HOV.jpg
+Image: `https://space.fmi.fi/MIRACLE/RWC/latest_HOV.jpg`
 
 ![](https://space.fmi.fi/MIRACLE/RWC/latest_HOV.jpg)
 
@@ -207,7 +207,7 @@ Location: ???
 
 Page: ???
 
-Image: ???
+Image: `???`
 
 Stream: https://www.twitch.tv/lightsoverlapland
 
@@ -217,7 +217,7 @@ Location: 67°50’26.588″N, 20°24’40.045″E
 
 Page: [Latest picture from the Kiruna All-Sky camera (Sony α7S)](https://www2.irf.se/Observatory/?link=All-sky_sp_camera)
 
-Image: https://www.irf.se/alis/allsky/krn/latest_medium.jpeg
+Image: `https://www.irf.se/alis/allsky/krn/latest_medium.jpeg`
 
 ![](https://www.irf.se/alis/allsky/krn/latest_medium.jpeg)
 
@@ -249,7 +249,7 @@ Location: 62°26′N 114°21′W
 
 Page: [AuroraMAX observatory](https://www.asc-csa.gc.ca/eng/astronomy/northern-lights/auroramax-observatory.asp)
 
-Image: http://auroramax.phys.ucalgary.ca/recent/recent_1080p.jpg
+Image: `http://auroramax.phys.ucalgary.ca/recent/recent_1080p.jpg`
 
 ![](http://auroramax.phys.ucalgary.ca/recent/recent_1080p.jpg)
 
@@ -263,7 +263,7 @@ Location: ???
 
 Page: ???
 
-Image: https://cam01.sci.ucalgary.ca/AllSkyCam/AllSkyCurrentImage.JPG
+Image: `https://cam01.sci.ucalgary.ca/AllSkyCam/AllSkyCurrentImage.JPG`
 
 ![](https://cam01.sci.ucalgary.ca/AllSkyCam/AllSkyCurrentImage.JPG)
 
@@ -279,7 +279,7 @@ Location: ???
 
 Page: ???
 
-Image: ???
+Image: `???`
 
 ---
 
