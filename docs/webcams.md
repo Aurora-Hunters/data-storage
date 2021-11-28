@@ -7,7 +7,7 @@ Table of Content:
   - [78° Svalbard](#svalbard-norway)
   - [78° Ny-Ålesund](#ny-ålesund-norway)
   - [69° Skibotn](#skibotn-norway)
-  - [69° Ramfjord](#ramfjord-troms-norway)
+  - [69° Ramfjord](#ramfjord-tromsø-norway)
 - [🇫🇮 Finland](#finland)
   - [69° Kevo](#kevo-finland)
   - [69° Kilpisjärvi](#kilpisjärvi-finland)
